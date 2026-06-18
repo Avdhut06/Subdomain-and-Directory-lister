@@ -1,4 +1,4 @@
-# Automated Gobuster Subdomain & Directory Pipeline
+# Automated Subdomain & Directory Pipeline
 
 A modular and interactive Bash automation script designed for Kali Linux. It chains subdomain enumeration directly into web directory fuzzing while automatically stripping hidden terminal ANSI formatting and parsing errors.
 
