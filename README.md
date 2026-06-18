@@ -19,14 +19,14 @@ sudo apt install gobuster seclists -y
 
 ## How to Deploy
 
-1. Ensure the script (`auto_recon.sh`) has execution permissions:
+1. Ensure the script (`Finder.sh`) has execution permissions:
    ```bash
-   chmod +x auto_recon.sh
+   chmod +x Finder.sh
    ```
 
 2. Run the automation pipeline:
    ```bash
-   ./auto_recon.sh
+   ./Finder.sh
    ```
 
 3. Follow the on-screen prompts to input your target domain, custom file names, or custom wordlist paths.
