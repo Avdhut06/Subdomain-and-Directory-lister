@@ -3,7 +3,7 @@
 # Clear terminal screen for layout clarity
 clear
 echo "=========================================================="
-echo "    AUTOMATED GOBUSTER SUBDOMAIN & DIRECTORY PIPELINE     "
+echo "       AUTOMATED SUBDOMAIN & DIRECTORY PIPELINE           "
 echo "=========================================================="
 echo ""
 
